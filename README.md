@@ -1,5 +1,3 @@
-<h2 align="center">Hi sobat teknik info,kenalin nama saya pajri👋</h2>
-
 ![lucu](img/github-header-banner.png)
 
 ---
@@ -7,7 +5,7 @@
 <h2 align="center">ABOUT ME 👨🏻‍💻</h2>
 <h7 align="center">
 
-Nama saya Pajri, seorang pribadi yang penuh semangat dan selalu ingin belajar hal-hal baru. Saya senang menghabiskan waktu untuk beraktivitas, terutama yang bisa menjaga tubuh tetap sehat dan pikiran tetap segar.
+Nama saya Pajri muhamad, seorang pribadi yang penuh semangat dan selalu ingin belajar hal-hal baru. Saya senang menghabiskan waktu untuk beraktivitas, terutama yang bisa menjaga tubuh tetap sehat dan pikiran tetap segar.
 
 Sejak kecil saya menyukai olahraga, terutama bulutangkis dan voli.
 Dua olahraga itu bukan hanya sekadar hobi, tapi juga cara saya melatih fokus, kerja sama tim, serta semangat pantang menyerah. Setiap kali bermain, saya merasa lebih berenergi dan termotivasi untuk menjalani hari dengan penuh semangat.
